@@ -1,5 +1,11 @@
 # deepagents
 
+## 1.6.2
+
+### Patch Changes
+
+- [`0b65b09`](https://github.com/langchain-ai/deepagentsjs/commit/0b65b09864e8618860b8ba002412f4239beae2ac) Thanks [@christian-bromann](https://github.com/christian-bromann)! - fix(deepagents): copy LICENSE file into published package
+
 ## 1.6.1
 
 ### Patch Changes
